@@ -1,4 +1,4 @@
-<img align = "right" alt="Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width= "600">
+[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://lonebhen.io)
 
 # 💫 About Me:
 I'm ... from Pune<br><br>- 🔭 I’m a ...Devops & Cybersecurity Enthusiast<br>- 📚 I'm currently learning ...Dev tools & Sec Tools
